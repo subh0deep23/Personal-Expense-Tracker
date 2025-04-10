@@ -58,7 +58,7 @@ lib/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/subh0deep23/expense_tracker.git
+   git clone  https://github.com/subh0deep23/Personal-Expense-Tracker.git
    ```
 
 2. Navigate to the project directory:
